@@ -73,6 +73,16 @@
             <?php include 'arrays.php' ?>
         </div>
     </div>
+
+    <footer>
+        <div class="container" style="background-color: #DDD">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="text-center">Copyright &copy; 2024</p>
+                </div>
+            </div>
+        </div>
+    </footer>
 </body>
 
 </html>
