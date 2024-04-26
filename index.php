@@ -22,7 +22,7 @@
 
 <body>
     <div class="container">
-        <div class="mb-4" id="cabecera">BIENVENIDO A BLOG-POST 3.0</div>
+        <div class="mb-4" id="cabecera">BIENVENIDO A BLOG-POST 4.0</div>
         <div class="text-center" id="post">
             <h1>Este es el título atractivo e interesante del post</h1>
             <p>Este es el párrafo de inicio donde vamos a explicar las cosas increíbles que se pueden hacer con ramas.
